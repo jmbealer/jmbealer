@@ -9,12 +9,15 @@
 I'm Justin Bealer a Full Stack Web Developer.
 
 
-testing
+#+ATTR_HTML: :style margin-left: auto; margin-right: auto;
 [[https://github-readme-stats.vercel.app/api?username=anuraghazra][https://github.com/anuraghazra/github-readme-stats]]
 
 <p align="center"><img src="https://github.com/anuraghazra/github-readme-stats" /></p>
 
 [[img:https][tesat]]
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=anuraghazra)]
+(https://github.com/anuraghazra/github-readme-stats)
+[[https://github-readme-stats.vercel.app/api?username=anuraghazra][file:image/https://github.com/anuraghazra/github-readme-stats]]
 
 Clicking on the image [[http://orgmode.org/][file:images/org-mode-unicorn.png]]
