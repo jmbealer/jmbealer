@@ -3,4 +3,16 @@
 #+description: This is the readme for my profile
 #+keywords: readme, profile, github
 
+
+* Hi I'm Justin
+
+I'm Justin Bealer a Full Stack Web Developer.
+
+
 testing
+[[https://github-readme-stats.vercel.app/api?username=anuraghazra][https://github.com/anuraghazra/github-readme-stats]]
+
+[[img:https][tesat]]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+Clicking on the image [[http://orgmode.org/][file:images/org-mode-unicorn.png]]
