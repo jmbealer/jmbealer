@@ -17,6 +17,8 @@ I'm Justin Bealer a Full Stack Web Developer.
 [[img:https][tesat]]
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+#+ATTR_HTML: title="Join the chat at https://gitter.im/IvanMalison/org-projectile"
 [[https://github-readme-stats.vercel.app/api?username=anuraghazra][file:https://github.com/anuraghazra/github-readme-stat]]
 
+#+ATTR_HTML: title="tsthent"
 [[https://github.com/anuraghazra/github-readme-stat][file:https://github-readme-stats.vercel.app/api?username=anuraghazra]]
