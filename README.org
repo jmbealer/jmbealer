@@ -31,4 +31,6 @@ I'm Justin Bealer a Full Stack Web Developer.
 </a>
 p
 
- [[ [["https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat"]]
+[[[["https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat"]]]]
+
+[[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat]]
