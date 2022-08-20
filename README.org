@@ -1,10 +1,9 @@
-#+TITLE: Profile Readme
+#+TITLE: Hello there! I'm Justin
 #+AUTHOR: Justin Bealer
 #+description: This is the readme for my profile
 #+keywords: readme, profile, github
 
 
-* Hi I'm Justin
+# * Hello there! I'm Justin
 
-I'm Justin Bealer a Full Stack Web Developer.
-
+I'm Justin Bealer a software engineer.
