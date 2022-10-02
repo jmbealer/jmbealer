@@ -10,17 +10,9 @@ I'm Justin Bealer a software engineer.
 
 
 
-# <a href="https://travis-ci.org/jkitchin/org-ref"><img src="https://travis-ci.org/jkitchin/org-ref.svg?branch=master"></a>
+<a href="https://travis-ci.org/jkitchin/org-ref"><img src="https://travis-ci.org/jkitchin/org-ref.svg?branch=master"></a>
 
 #+BEGIN_html
-<a href="https://github.com/jkitchin/org-ref/actions"><img src="https://github.com/jkitchin/org-ref/actions/workflows/test-org-ref.yml/badge.svg"></a>
-
-<a href="https://melpa.org/#/org-ref"><img alt="MELPA" src="https://melpa.org/packages/org-ref-badge.svg"/></a>
-
-<a href="http://stable.melpa.org/#/org-ref"><img alt="MELPA Stable" src="http://stable.melpa.org/packages/org-ref-badge.svg"/></a>
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=radical" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmbealer&theme=dark"/>
@@ -71,3 +63,13 @@ Overview of org-ref for export to PDF via LaTeX.
 </div>
 
 #+END_SRC
+
+
+<a href="https://github.com/jkitchin/org-ref/actions"><img src="https://github.com/jkitchin/org-ref/actions/workflows/test-org-ref.yml/badge.svg"></a>
+
+<a href="https://melpa.org/#/org-ref"><img alt="MELPA" src="https://melpa.org/packages/org-ref-badge.svg"/></a>
+
+<a href="http://stable.melpa.org/#/org-ref"><img alt="MELPA Stable" src="http://stable.melpa.org/packages/org-ref-badge.svg"/></a>
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=radical" />
