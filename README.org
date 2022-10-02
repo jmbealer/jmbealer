@@ -20,7 +20,7 @@ I'm Justin Bealer a software engineer.
 <a href="http://stable.melpa.org/#/org-ref"><img alt="MELPA Stable" src="http://stable.melpa.org/packages/org-ref-badge.svg"/></a>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=radical" />
 
 
 <div>
