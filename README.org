@@ -3,21 +3,21 @@
 #+description: This is the readme for my profile
 #+keywords: readme, profile, github
 
-
 # * Hello there! I'm Justin
 
 I'm Justin Bealer a software engineer.
 
-
 #+BEGIN_html
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
+  <img align="center"
 src="https://github-readme-stats.vercel.app/api/top-langs?username=jmbealer&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" alt="Gift's language" height="192px"  width="500px"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jmbealer&theme=dark"/>
+  <img align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=jmbealer&theme=dark"
+  //>
 </)a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
