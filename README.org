@@ -11,7 +11,7 @@ I'm Justin Bealer a software engineer.
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jmbealer&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=jmbealer&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dark&hide_border"
     alt="Gift's language" height="192px"  width="320px"/>
 </a>
 
@@ -35,18 +35,15 @@ I'm Justin Bealer a software engineer.
 
 
 <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme:
-        no-preference)"
-        />
-        <img
-        src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-        />
-
-        </picture
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme:no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 #+END_html
