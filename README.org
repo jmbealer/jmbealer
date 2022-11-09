@@ -14,7 +14,7 @@ I'm Justin Bealer a software engineer.
 <html>
 <head>
 <style>
-  .div{
+  div {
     display: flex;
     gap: 5px;
   }
