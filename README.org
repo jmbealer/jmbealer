@@ -10,6 +10,13 @@ I'm Justin Bealer a software engineer.
 
 
 #+BEGIN_html
+<style>
+  .div{
+    display: flex;
+    gap: 5px;
+  }
+</style>
+
 <div style="display:flex;">
   <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=dark"
