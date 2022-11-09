@@ -19,7 +19,8 @@ I'm Justin Bealer a software engineer.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=gruvbox&hide_border=true&card_width=461"
+    src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=gruvbox&hide_border=true&card_width=460"
+    height="200px"
   />
 </a>
 
