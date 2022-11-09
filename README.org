@@ -20,13 +20,14 @@ I'm Justin Bealer a software engineer.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=gruvbox&hide_border=true&card_width=460"
-    height="199px"
+    height="190px"
   />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=jmbealer&theme=gruvbox&hide_border=true&card_width=800"
+    width="800px"
   />
 </a>
 
