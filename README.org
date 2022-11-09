@@ -10,12 +10,14 @@ I'm Justin Bealer a software engineer.
 
 
 #+BEGIN_html
+<head>
 <style>
   .div{
     display: flex;
     gap: 5px;
   }
 </style>
+</head>
 
 <div style="display:flex;">
   <img align="center"
