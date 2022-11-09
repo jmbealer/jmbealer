@@ -5,10 +5,9 @@
 
 # * Hello there! I'm Justin
 
-I'm Justin Bealer a software engineer.
+And I'm a software engineer.
 
 #+BEGIN_html
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center"
@@ -16,7 +15,6 @@ I'm Justin Bealer a software engineer.
     height="200px"
   />
 </a>
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center"
@@ -31,7 +29,5 @@ I'm Justin Bealer a software engineer.
     width="900px"
   />
 </a>
-
-
 
 #+END_html
