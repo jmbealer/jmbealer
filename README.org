@@ -14,11 +14,11 @@ I'm Justin Bealer a software engineer.
 <div>
   <img
     src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=dark"
-    width="500px"
+    width="400px"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jmbealer&langs_count=9&show_icons=true&locale=en&layout=compact&theme=dark" 
-    alt="Gift's language"  width="500px"/>
+    alt="Gift's language" height="196px"  width="400px"/>
 </div>
 
 
