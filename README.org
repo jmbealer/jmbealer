@@ -10,6 +10,8 @@ I'm Justin Bealer a software engineer.
 
 
 #+BEGIN_html
+<!DOCTYPE html>
+<html>
 <head>
 <style>
   .div{
@@ -31,6 +33,7 @@ I'm Justin Bealer a software engineer.
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jmbealer&langs_count=9&show_icons=true&locale=en&layout=compact&theme=dark" 
     alt="Gift's language" height="192px"  width="500px"/>
 </div>
+</html>
 
 
 #+END_html
