@@ -16,4 +16,4 @@ And I'm a software engineer.
 
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jmbealer&theme=gruvbox&hide_border=true&card_width=900)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jmbealer&theme=gruvbox&rank=)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jmbealer&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
