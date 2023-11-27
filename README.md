@@ -6,13 +6,13 @@ And I'm a software engineer.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" /> -->
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=gruvbox&hide_border=true&card_width=200" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=gruvbox&hide_border=true" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbealer&layout=donut-vertical&theme=gruvbox&hide_border=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbealer&layout=donut-vertical&theme=gruvbox&hide_border=true&card_width=300" />
 </a>
 
-![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jmbealer&theme=gruvbox&hide_border=true&card_width=800)
+![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jmbealer&theme=gruvbox&hide_border=true&card_width=900)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jmbealer&theme=gruvbox&rank=-UNKNOWN)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jmbealer&theme=gruvbox&rank=-UNKNOWN,-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
