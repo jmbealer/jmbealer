@@ -10,9 +10,9 @@ And I'm a software engineer.
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbealer&layout=donut-vertical&theme=gruvbox&hide_border=true" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbealer&layout=donut-vertical&theme=gruvbox&hide_border=true&card_width=400" />
 </a>
 
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jmbealer&theme=gruvbox&hide_border=true&card_width=900)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jmbealer&theme=gruvbox&rank=-UNKNOWN,-Unknown)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jmbealer&theme=gruvbox&rank=-UNKNOWN,-Unknown,-unknown)](https://github.com/ryo-ma/github-profile-trophy)
