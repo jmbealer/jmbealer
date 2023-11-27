@@ -6,7 +6,7 @@ And I'm a software engineer.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" /> -->
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=gruvbox&hide_border=true&card_width=200" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
@@ -15,4 +15,4 @@ And I'm a software engineer.
 
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jmbealer&theme=gruvbox&hide_border=true&card_width=800)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jmbealer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jmbealer&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
