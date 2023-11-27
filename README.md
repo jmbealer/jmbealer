@@ -6,7 +6,7 @@ And I'm a software engineer.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" /> -->
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=gruvbox&hide_border=true&card_width=300" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=jmbealer&show_icons=true&theme=gruvbox&hide_border=true&card_width=200" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
