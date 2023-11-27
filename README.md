@@ -14,7 +14,7 @@ And I'm a software engineer.
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbealer&layout=donut-vertical&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbealer&layout=donut-vertical&theme=gruvbox&hide_border=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
 
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jmbealer&theme=gruvbox&hide_border=true&card_width=800)
