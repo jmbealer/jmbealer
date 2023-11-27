@@ -10,7 +10,7 @@ And I'm a software engineer.
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbealer&layout=donut-vertical&theme=gruvbox&hide_border=true&card_width=500" />
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmbealer&layout=donut-vertical&theme=gruvbox&hide_border=true" />
 </a>
 
 ![Total Contributions](https://github-readme-streak-stats.herokuapp.com/?user=jmbealer&theme=gruvbox&hide_border=true&card_width=900)
