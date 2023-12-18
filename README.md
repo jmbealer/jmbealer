@@ -3,6 +3,7 @@
 And I'm a software engineer.
 Looking to improve my skills.
 And acquire new skills.
+Trying this out.
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=jmbealer&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true&card_width=325) -->
 
